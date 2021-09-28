@@ -1,0 +1,152 @@
+.navbar-brand
+{   color:aliceblue;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem;
+}
+.container-fluid
+{
+    padding:3% 15%;
+}
+#title
+{
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 100px;;
+}
+.dog
+{
+    height:auto;
+    right:14%;
+    transform: rotate(25deg);
+    position:absolute;
+    
+    
+}
+.download
+{
+    margin:0% 3% 5% 4%;
+}
+.frnt
+{
+    margin-top:0%;
+}
+.buttm
+{
+    margin-bottom: 4%;
+}
+.middle
+{   margin:5% auto;
+    padding:15% auto;
+}
+.feature-box
+{   
+    text-align: center;
+    padding:8% 4%;
+    border:4%;
+}
+h3{
+    font-weight: bold;
+}
+.logo
+{
+    color:#ef8172;
+    padding:3%;
+}
+.logo:hover{
+    color:#ff4c68;
+}
+.para
+{
+    color:rgba(128, 128, 128, 0.5);
+} 
+#testimonials
+{   
+    text-align:center;
+    font-family: 'Montserrat', sans-serif bold;
+    color:aliceblue;
+    background-color:#ef8172;
+    
+
+}
+.dogii{
+    border-radius: 100%;
+    width:10%;
+    margin:20px;
+    
+}
+
+.toto
+{
+    width:15.2%;
+    padding:80px 30px;
+}
+#pricing
+{   padding:20px 30px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    margin:2.5% 2%;
+}
+.price-row
+{
+    padding:15px 15px;
+    margin:7% 10%;
+
+}
+#features
+{   margin:0%;
+    
+    background-color: aliceblue;
+    position:relative;
+    z-index: 1;
+    bottom:40px;
+    
+    
+}
+@media (max-width:1279px)
+{
+   .dog{
+       position:static;
+       transform:rotate(0);
+       margin-top: 5%;
+   }
+   #title
+   {
+       text-align: center;
+       
+       margin-bottom:0;
+       padding-bottom:0%;
+   }
+
+}
+h1
+{
+    padding:100px auto;
+}
+#cta
+{
+    background-color:#ff4c68;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    color:aliceblue;
+    
+}
+.last{
+    
+    padding:100px;
+}
+.apple
+{
+    margin:3% 3% 0%;
+}
+.ant
+{   margin-top: 5%;
+    text-align: center;
+}
+#footer
+{
+    height:450px;
+}
+.twit
+{
+    width:35px;
+    margin:25px;
+}
